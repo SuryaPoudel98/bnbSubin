@@ -80,6 +80,7 @@
         ?>
 
         <h1>Add a new booking</h1>
+        <br>
         <ul>
           <li><a href="listbookings.php">List Booking</a></li>
           <li><a href="admin.php">Home</a></li>
